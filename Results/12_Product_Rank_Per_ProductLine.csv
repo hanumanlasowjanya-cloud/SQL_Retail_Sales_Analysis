@@ -1,0 +1,110 @@
+PRODUCTLINE,PRODUCTCODE,PRODUCTNAME,TOTAL_REVENUE,PRODUCT_RANK
+"Classic Cars",S18_3232,"1992 Ferrari 360 Spider red",276839.98,1
+"Classic Cars",S12_1108,"2001 Ferrari Enzo",190755.86,2
+"Classic Cars",S10_1949,"1952 Alpine Renault 1300",190017.96,3
+"Classic Cars",S12_1099,"1968 Ford Mustang",161531.48,4
+"Classic Cars",S12_3891,"1969 Ford Falcon",152543.02,5
+"Classic Cars",S18_2238,"1998 Chrysler Plymouth Prowler",142530.63,6
+"Classic Cars",S24_3856,"1956 Porsche 356A Coupe",134240.71,7
+"Classic Cars",S12_3148,"1969 Corvair Monza",132363.79,8
+"Classic Cars",S18_4721,"1957 Corvette Convertible",130749.31,9
+"Classic Cars",S10_4757,"1972 Alfa Romeo GTA",127924.32,10
+"Classic Cars",S10_4962,"1962 LanciaA Delta 16V",123123.01,11
+"Classic Cars",S18_4027,"1970 Triumph Spitfire",122254.75,12
+"Classic Cars",S18_3482,"1976 Ford Gran Torino",121890.60,13
+"Classic Cars",S18_3685,"1948 Porsche Type 356 Roadster",121653.46,14
+"Classic Cars",S18_1984,"1995 Honda Civic",119050.95,15
+"Classic Cars",S18_1129,"1993 Mazda RX-7",114648.12,16
+"Classic Cars",S12_4675,"1969 Dodge Charger",104210.62,17
+"Classic Cars",S18_1589,"1965 Aston Martin DB5",101778.13,18
+"Classic Cars",S18_2870,"1999 Indy 500 Monte Carlo SS",100770.12,19
+"Classic Cars",S12_3380,"1968 Dodge Charger",98718.76,20
+"Classic Cars",S24_2887,"1952 Citroen-15CV",94248.67,21
+"Classic Cars",S24_4048,"1992 Porsche Cayenne Turbo Silver",92973.40,22
+"Classic Cars",S700_2824,"1982 Camaro Z28",89272.65,23
+"Classic Cars",S24_3432,"2002 Chevy Corvette",87404.81,24
+"Classic Cars",S24_2766,"1949 Jaguar XK 120",76670.02,25
+"Classic Cars",S24_4620,"1961 Chevrolet Impala",69120.97,26
+"Classic Cars",S18_3278,"1969 Dodge Super Bee",68783.93,27
+"Classic Cars",S24_3191,"1969 Chevrolet Camaro Z28",67357.30,28
+"Classic Cars",S18_1889,"1948 Porsche 356-A Roadster",66455.62,29
+"Classic Cars",S12_3990,"1970 Plymouth Hemi Cuda",63489.95,30
+"Classic Cars",S24_1046,"1970 Chevy Chevelle SS 454",53236.67,31
+"Classic Cars",S24_3371,"1971 Alpine Renault 1600s",52339.53,32
+"Classic Cars",S24_1444,"1970 Dodge Coronet",50255.45,33
+"Classic Cars",S18_4933,"1957 Ford Thunderbird",50101.57,34
+"Classic Cars",S24_1628,"1966 Shelby Cobra 427 S/C",42015.54,35
+"Classic Cars",S24_2840,"1958 Chevy Corvette Limited Edition",31627.96,36
+"Classic Cars",S24_2972,"1982 Lamborghini Diablo",30972.87,37
+Motorcycles,S10_4698,"2003 Harley-Davidson Eagle Drag Bike",170686.00,1
+Motorcycles,S12_2823,"2002 Suzuki XREO",135767.03,2
+Motorcycles,S10_2016,"1996 Moto Guzzi 1100i",109998.82,3
+Motorcycles,S24_1578,"1997 BMW R 1100 S",105266.64,4
+Motorcycles,S10_1678,"1969 Harley Davidson Ultimate Chopper",90157.77,5
+Motorcycles,S32_1374,"1997 BMW F650 ST",89364.89,6
+Motorcycles,S32_4485,"1974 Ducati 350 Mk3 Desmo",84039.24,7
+Motorcycles,S50_4713,"2002 Yamaha YZR M1",73670.64,8
+Motorcycles,S24_2000,"1960 BSA Gold Star DBD34",67193.49,9
+Motorcycles,S24_2360,"1982 Ducati 900 Monster",57995.25,10
+Motorcycles,S18_3782,"1957 Vespa GS150",54024.87,11
+Motorcycles,S18_2625,"1936 Harley Davidson El Knucklehead",49992.72,12
+Motorcycles,S32_2206,"1982 Ducati 996 R",33268.76,13
+Planes,S18_1662,"1980s Black Hawk Helicopter",144959.91,1
+Planes,S700_2834,"ATA: B757-300",102786.38,2
+Planes,S24_1785,"1928 British Royal Navy Airplane",94885.37,3
+Planes,S700_2466,"America West Airlines B757-200",89347.80,4
+Planes,S700_3167,"F/A 18 Hornet 1/72",76618.40,5
+Planes,S700_1691,"American Airlines: B767-300",73871.22,6
+Planes,S700_4002,"American Airlines: MD-11S",71753.93,7
+Planes,S18_2581,"P-51-D Mustang",68741.91,8
+Planes,S24_4278,"1900s Vintage Tri-Plane",68276.35,9
+Planes,S24_3949,"Corsair F4U ( Bird Cage)",62269.67,10
+Planes,S24_2841,"1900s Vintage Bi-Plane",58434.07,11
+Planes,S72_1253,"Boeing X-32A JSF",42692.53,12
+Ships,S24_2011,"18th century schooner",112427.12,1
+Ships,S700_3505,"The Titanic",84992.25,2
+Ships,S700_3962,"The Queen Mary",78919.06,3
+Ships,S18_3029,"1999 Yamaha Speed Boat",74127.24,4
+Ships,S700_2047,"HMS Bounty",73298.42,5
+Ships,S700_1938,"The Mayflower",69531.61,6
+Ships,S700_2610,"The USS Constitution Ship",66697.13,7
+Ships,S700_1138,"The Schooner Bluenose",56455.11,8
+Ships,S72_3212,"Pont Yacht",47550.40,9
+Trains,S18_3259,"Collectable Wooden Train",82617.12,1
+Trains,S32_3207,"1950's Chicago Surface Lines Streetcar",53791.99,2
+Trains,S50_1514,"1962 City of Detroit Streetcar",52123.81,3
+"Trucks and Buses",S12_1666,"1958 Setra Bus",119085.25,1
+"Trucks and Buses",S24_2300,"1962 Volkswagen Microbus",118774.33,2
+"Trucks and Buses",S18_2319,"1964 Mercedes Tour Bus",117669.66,3
+"Trucks and Buses",S18_4600,"1940s Ford truck",114232.79,4
+"Trucks and Buses",S12_4473,"1957 Chevy Pickup",109946.21,5
+"Trucks and Buses",S18_1097,"1940 Ford Pickup Truck",105563.12,6
+"Trucks and Buses",S50_1392,"Diamond T620 Semi-Skirted Tanker",101137.55,7
+"Trucks and Buses",S32_1268,"1980ÔÇÖs GM Manhattan Express",78067.82,8
+"Trucks and Buses",S32_3522,"1996 Peterbilt 379 Stake Bed with Outrigger",57282.49,9
+"Trucks and Buses",S18_2432,"1926 Ford Fire Engine",55835.30,10
+"Trucks and Buses",S32_2509,"1954 Greyhound Scenicruiser",46519.05,11
+"Vintage Cars",S18_1749,"1917 Grand Touring Sedan",140535.60,1
+"Vintage Cars",S18_2795,"1928 Mercedes-Benz SSK",132275.98,2
+"Vintage Cars",S18_3140,"1903 Ford Model A",111528.82,3
+"Vintage Cars",S18_2325,"1932 Model A Ford J-Coupe",109992.01,4
+"Vintage Cars",S18_1342,"1937 Lincoln Berline",102563.52,5
+"Vintage Cars",S18_3856,"1941 Chevrolet Special Deluxe Cabriolet",102537.45,6
+"Vintage Cars",S18_2949,"1913 Ford Model T Speedster",97193.88,7
+"Vintage Cars",S24_4258,"1936 Chrysler Airflow",88434.46,8
+"Vintage Cars",S18_3320,"1917 Maxwell Touring Car",87637.63,9
+"Vintage Cars",S18_3136,"18th Century Vintage Horse Carriage",85328.57,10
+"Vintage Cars",S18_4522,"1904 Buick Runabout",77800.54,11
+"Vintage Cars",S24_3151,"1912 Ford Model T Delivery Wagon",77239.92,12
+"Vintage Cars",S18_4409,"1932 Alfa Romeo 8C2300 Spider Sport",71526.22,13
+"Vintage Cars",S24_3816,"1940 Ford Delivery Sedan",71208.18,14
+"Vintage Cars",S32_4289,"1928 Ford Phaeton Deluxe",60493.33,15
+"Vintage Cars",S18_2957,"1934 Ford V8 Coupe",55172.21,16
+"Vintage Cars",S24_3420,"1937 Horch 930V Limousine",52803.75,17
+"Vintage Cars",S18_1367,"1936 Mercedes-Benz 500K Special Roadster",46078.29,18
+"Vintage Cars",S18_2248,"1911 Ford Town Car",45306.77,19
+"Vintage Cars",S18_4668,"1939 Cadillac Limousine",44037.84,20
+"Vintage Cars",S50_1341,"1930 Buick Marquette Phaeton",41599.24,21
+"Vintage Cars",S24_2022,"1938 Cadillac V-16 Presidential Limousine",38449.09,22
+"Vintage Cars",S24_3969,"1936 Mercedes Benz 500k Roadster",29763.39,23
+"Vintage Cars",S24_1937,"1939 Chevrolet Deluxe Coupe",28052.94,24
