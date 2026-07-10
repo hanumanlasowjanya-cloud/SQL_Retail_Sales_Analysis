@@ -95,7 +95,7 @@ SQL_Retail_Sales_Analysis/
 ├── Business_Insights.md
 ├── README.md
 ├── Results/
-│   ├── Excel outputs
+│   ├── CSV outputs
 │
 └── Screenshots/
     ├── Query result screenshots
